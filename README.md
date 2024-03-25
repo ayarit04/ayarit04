@@ -11,7 +11,7 @@ ayarit04/ayarit04 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Ayarit 😁
 
  <div>
    <a href="https://github.com/ayarit04">
